@@ -1,2 +1,2 @@
 # CHelper
-A Collectiopn of C# code to solve problems I regulary ran into
+A collectiopn of C# code to solve problems I regulary ran into
